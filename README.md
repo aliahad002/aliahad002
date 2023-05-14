@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/C4D16AQGnDaMqa6NJug/profile-displaybackgroundimage-shrink_350_1400/0/1628612223956?e=1689811200&v=beta&t=TWP0lG9QYQlwrBI3-zP31wsstZ9sUVHvusu9tMBmZ0M)
+![logo](https://github.com/aliahad002/aliahad002/blob/main/penetration.jpg)
 
 <h1 align="center">Hi 👋, I'm Ahad Abbasi</h1>
 <h3 align="center">Penetration Tester || Security Researcher || OSCP</h3>
